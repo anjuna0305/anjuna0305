@@ -67,11 +67,11 @@ Currently building language technology tools at the **Language Technology Resear
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjunaSk&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuna0305&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjunaSk&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjuna0305&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anjunaSk&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anjuna0305&hide_border=true)
 
 ---
 
