@@ -5,13 +5,13 @@ Currently building language technology tools at the **Language Technology Resear
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjunaSK)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anjunaserasingha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anjunaSk)
-![Profile views](https://komarev.com/ghpvc/?username=anjunaSk&style=flat&color=4A90E2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anjuna0305)
+![Profile views](https://komarev.com/ghpvc/?username=anjuna0305&style=flat&color=4A90E2)
 
 ---
 
 - 🔭 Currently working on **Subasa** — a multi-service AI platform (TTS, ASR, RAG chatbots)
-- 🌱 Exploring **Go microservices** and **LLM-based tooling**
+- 🌱 Exploring **microservices** and **LLM-based tooling**
 - ⚙️ Daily stack: `.ts` `.tsx` `.py` `.java` `.go`
 - 🏋️ Olympic weightlifter when not at the keyboard
 - 💬 Ask me about **full stack dev, DevOps, system architecture, or NLP tooling**
